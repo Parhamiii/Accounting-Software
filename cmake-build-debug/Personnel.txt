@@ -1,0 +1,6 @@
+ali ahmadi 43 A 1395/02/21 foghLisans 15 140 5
+samira gholami 33 B 1393/05/14 lisans 451 170 3
+sara ghorbani 27 B 1400/10/01 lisans 526 170 3
+farshid Karimi 24 C 1403/05/17 foghDiplom 53711 180 2
+ahmad asadi 35 C 1402/02/17 diplom 53719 180 2
+ghasem fakheri 41 B 1399/05/01 lisans 326 160 3

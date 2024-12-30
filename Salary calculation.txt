@@ -1,0 +1,25 @@
+personnel A: 140 * 100/000 - penaltyA
+personnel B: 170 * 70/000 - penaltyB
+personnel C: 180 * 50/000 - penaltyC
+
+-------------------
+
+
+penalty A: 
+if (leave > 5):
+leave = leave - 5;
+penaltyA = leave * 150/000;
+
+-------------------
+
+penalty B: 
+if (leave > 3):
+leave = leave - 3;
+penaltyB = leave * 100/000;
+
+-------------------
+
+penalty V: 
+if (leave > 2):
+leave = leave - 2;
+penaltyC = leave * 70/000;
